@@ -27,7 +27,9 @@
 
 ## รายละเอียดด้านขวา (Details Panel)
 เมื่อคลิกที่วิทยานิพนธ์ของคุณ ระบบจะแสดงรายละเอียดในพาเนลด้านขวา:
-![Revision Detail](Images/Revision_Detail.jpg)
+<p align="left">
+  <img src="Images/Revision_Detail.jpg" width="400" alt="คำอธิบายรูปภาพ">
+</p>
 
 ### ชื่อวิทยานิพนธ์
 แสดงชื่อวิทยานิพนธ์ทั้งภาษาอังกฤษและภาษาไทย
