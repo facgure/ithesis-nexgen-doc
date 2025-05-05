@@ -91,7 +91,7 @@ You can track the progress of your thesis from the status bar at the top (Propos
 2. **Cannot See the Latest Updates**: Try refreshing the webpage or logging out and logging in again
 3. **Problems Submitting a Proposal**: Check that you have completed all the necessary steps (such as uploading files, checking for plagiarism)
 
-If you still encounter problems using the system, please contact the Graduate Student Support team at graduate.support@fagcure.edu or call 02-XXX-XXXX
+If you still encounter problems using the system, please contact the Graduate Student Support team.
 
 ---
 
