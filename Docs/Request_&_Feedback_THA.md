@@ -1,2 +1,2 @@
 # Request and Feedback
-ไทย
+The feature is coming soon..
