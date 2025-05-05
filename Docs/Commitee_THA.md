@@ -1,2 +1,2 @@
 # คณะกรรมการ (Committee)
-ไทย
+The feature is coming soon..
