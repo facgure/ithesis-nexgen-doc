@@ -1,5 +1,4 @@
 # แบบฟอร์ม Submission
-# แบบฟอร์มการส่ง (Submission Form)
 
 ## ข้อมูลทั่วไป
 
