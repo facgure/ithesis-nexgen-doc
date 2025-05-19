@@ -70,6 +70,6 @@ When clicking on a request, the system displays additional details, including:
 3. **Cannot approve or reject requests**: This may be due to access rights limitations; contact the system administrator
 4. **Student information is incorrect**: Ask the student to update their profile information
 
-If you encounter other issues, please contact the iThesis system support team.
+If you encounter other issues, please contact Graduate Student Support.
 
 ---
