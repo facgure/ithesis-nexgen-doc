@@ -20,7 +20,7 @@ The "+" button is used to add new committee members or examiners. Clicking it op
 Displays information about the advisor or committee member you're adding, including:
 - Profile picture
 - Name
-- Email (e.g., mentorkmitl1@thesis.co)
+- Email (e.g., mentor@thesis.co)
 
 ### Preview Section
 Shows an example of how the prefix and name will appear in official documents, such as:
